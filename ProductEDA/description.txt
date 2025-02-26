@@ -1,0 +1,7 @@
+The aim of the project is to analyze a time series data for various insights. The data contains monthly sales record of a retail brand with stores across USA for 2019 as 12 separate files. For ease of use I have combined all the files into one single csv file which I am using in the script below. Our intent is to analyze and deduce the following information using EDA.
+
+Top sold products
+Top pair of products sold together
+Top triplets of pairs sold together
+Revenue vs Average Order Value
+Monthly Sales Patterns
