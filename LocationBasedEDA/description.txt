@@ -1,1 +1,7 @@
-Contains location (city) based analysis of the retail data to uncover patterns.
+The aim of the project is to analyze a time series data for various insights. 
+
+Average number of orders per month/daily/hourly for the cities
+Average Revenue per month
+Hourly/Daily/Monthly Order volume
+Hourly/Monthly/Daily Order Value Distribution
+Top products for the cities
